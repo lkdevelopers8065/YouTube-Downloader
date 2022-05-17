@@ -14,15 +14,15 @@
 
 .......🤘Our Telegram Bots🤘.......
 
-🖐YouTube Video Downloader - t.me/youtube_4k_bot
+🖐YouTube Video Downloader - https://t.me/youtube_4k_bot
 
-🥰Free Internet Bot - t.me/lkdev_free_internet_bot
+🥰Free Internet Bot - https://t.me/lkdev_free_internet_bot
 
-😉Free Canva Pro Bot - t.me/lkdev_canvapro_bot
+😉Free Canva Pro Bot - https://t.me/lkdev_canvapro_bot
 
-😎TikTok Downlaoder Bot (Beta) - t.me/lkdev_tiktok_bot
+😎TikTok Downlaoder Bot (Beta) - https://t.me/lkdev_tiktok_bot
 
-😜Admin Contact Bot - t.me/lkdev_contact_bot
+😜Admin Contact Bot - https://t.me/lkdev_contact_bot
 
 YouTube - https://bit.ly/39654Qz
 GitHub - https://bit.ly/3xUB9p5
