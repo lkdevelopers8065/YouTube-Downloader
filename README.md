@@ -1,4 +1,4 @@
-# 🔥</> LK Developers YouTube Bot Public Code</>
+# 🔥</> LK Developers YouTube Bot</>
 
 ![@youtube_4k_bot](https://user-images.githubusercontent.com/104438811/168841918-3290bdff-0414-43df-b7fd-a8d3bc7b722f.png) 
 
