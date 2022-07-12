@@ -10,7 +10,7 @@
 - 🔔 Free Updates
 - 📚 Public
 
-🧤Telegram Channel - https://t.me/lkdeveloper
+🧤Telegram Channel - https://t.me/lkdevelopers_org
 ## ◇────────────────────◇
 
 .......🤘Our Telegram Bots🤘.......
@@ -21,18 +21,15 @@
 
 😉Free Canva Pro Bot - https://t.me/lkdev_canvapro_bot
 
-😎TikTok Downlaoder Bot (Beta) - https://t.me/lkdev_tiktok_bot
-
 😜Admin Contact Bot - https://t.me/lkdev_contact_bot
 
-YouTube - https://bit.ly/39654Qz
 GitHub - https://bit.ly/3xUB9p5
 
 ◇────────────────────◇
 
 <details>
   <b>✓✓ LK Developers™ </></b>
-
+</br>
 
 <p><img src="https://user-images.githubusercontent.com/104438811/168842472-afda6411-08d9-4516-8baf-1fbe72ef7a5e.png" alt=""/></p>
 </details>
