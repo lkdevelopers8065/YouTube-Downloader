@@ -31,8 +31,8 @@ GitHub - https://bit.ly/3xUB9p5
 ◇────────────────────◇
 
 <details>
-  <summary><b>✓✓ LK Developers™ </></b></summary>
-<br/>
+  <b>✓✓ LK Developers™ </></b>
+
 
 <p><img src="https://user-images.githubusercontent.com/104438811/168842472-afda6411-08d9-4516-8baf-1fbe72ef7a5e.png" alt=""/></p>
 </details>
