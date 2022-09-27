@@ -4,7 +4,7 @@
 from asyncio import streams
 from pytube import YouTube
 
-print("LK Developers YouTube Downloader Bot)
+print("LK Developers YouTube Downloader Bot")
 
 url = input("🍓 ☠  𝗘𝗻𝘁𝗲𝗿 𝗬𝗼𝘂𝗿 𝗨𝗥𝗟 𝗛𝗲𝗿𝗲 🐸 ♚ : ")
 my_video = YouTube(url)
